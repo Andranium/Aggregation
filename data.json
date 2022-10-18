@@ -1,0 +1,202 @@
+[
+  {
+    "name": " Местный бюджет",
+    "budget": {
+      "value": null,
+      "measure": "number"
+    },
+    "budget_cash": {
+      "value": null,
+      "measure": "number"
+    },
+    "field1": {
+      "value": null,
+      "measure": "number"
+    },
+    "field2": {
+      "value": null,
+      "measure": "number"
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": "\"Внебюджетные средства",
+    "budget": {
+      "value": 34.056,
+      "measure": "млн. руб"
+    },
+    "budget_cash": {
+      "value": 34.056,
+      "measure": "млн. руб"
+    },
+    "field1": {
+      "value": 34.056,
+      "measure": "млн. руб"
+    },
+    "field2": {
+      "value": 34.056,
+      "measure": "млн. руб"
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": "Внебюджетные средства",
+    "budget": {
+      "value": 2146,
+      "measure": "млн. руб"
+    },
+    "budget_cash": {
+      "value": 21563,
+      "measure": "млн. руб"
+    },
+    "field1": {
+      "value": 21563,
+      "measure": "млн. руб"
+    },
+    "field2": {
+      "value": 21563,
+      "measure": "млн. руб"
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": "Федеральный бюджет",
+    "budget": {
+      "value": 1,
+      "measure": "млн. руб"
+    },
+    "budget_cash": {
+      "value": 1,
+      "measure": "млн. руб"
+    },
+    "field1": {
+      "value": 1,
+      "measure": "млн. руб"
+    },
+    "field2": {
+      "value": 1,
+      "measure": "млн. руб"
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": "Федеральный бюджет",
+    "budget": {
+      "value": 5,
+      "measure": "млн. руб"
+    },
+    "budget_cash": {
+      "value": 5,
+      "measure": "млн. руб"
+    },
+    "field1": {
+      "value": 5,
+      "measure": "млн. руб"
+    },
+    "field2": {
+      "value": 5,
+      "measure": "млн. руб"
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": "Общая стоимость",
+    "budget": {
+      "value": 1,
+      "measure": "млн. руб"
+    },
+    "budget_cash": {
+      "value": 30.5,
+      "measure": "млн. руб"
+    },
+    "field1": {
+      "value": 30.5,
+      "measure": "млн. руб"
+    },
+    "field2": {
+      "value": 30.5,
+      "measure": "млн. руб"
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": "Общая стоимость",
+    "budget": {
+      "value": 15,
+      "measure": "млн. руб"
+    },
+    "budget_cash": {
+      "value": 21414,
+      "measure": "млн. руб"
+    },
+    "field1": {
+      "value": 21414,
+      "measure": "млн. руб"
+    },
+    "field2": {
+      "value": 21414,
+      "measure": "млн. руб"
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": "Общая стоимость",
+    "budget": {
+      "value": 0,
+      "measure": "percent."
+    },
+    "budget_cash": {
+      "value": 1235,
+      "measure": "млн. руб."
+    },
+    "field1": {
+      "value": 1235,
+      "measure": "млн. руб."
+    },
+    "field2": {
+      "value": 1235,
+      "measure": "млн. руб."
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": "Местный бюджет",
+    "budget": {
+      "value": 235.398,
+      "measure": "млн. руб"
+    },
+    "budget_cash": {
+      "value": 232.757,
+      "measure": "млн. руб"
+    },
+    "field1": {
+      "value": 232.757,
+      "measure": "млн. руб"
+    },
+    "field2": {
+      "value": 232.757,
+      "measure": "млн. руб"
+    },
+    "__typename": "Test_Column_chart_default"
+  },
+  {
+    "name": " Местный бюджет",
+    "budget": {
+      "value": 12342,
+      "measure": "млн. руб."
+    },
+    "budget_cash": {
+      "value": 5.012,
+      "measure": "млн. руб"
+    },
+    "field1": {
+      "value": 5.012,
+      "measure": "млн. руб"
+    },
+    "field2": {
+      "value": 5.012,
+      "measure": "млн. руб"
+    },
+    "__typename": "Test_Column_chart_default"
+  }
+]

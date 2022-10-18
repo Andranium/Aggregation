@@ -1,0 +1,62 @@
+[
+  {
+    "id": 783,
+    "title": "Наименование",
+    "key": "dimension",
+    "json_key": "name",
+    "type": null,
+    "style": "default",
+    "aggregation_function": null,
+    "group_by": true,
+    "toggled_key": "column",
+    "toggled_type": "text"
+  },
+  {
+    "id": 786,
+    "title": "te",
+    "key": "metric",
+    "json_key": "field1",
+    "type": null,
+    "style": "default",
+    "aggregation_function": "SUM",
+    "group_by": false,
+    "toggled_key": "column",
+    "toggled_type": "text"
+  },
+  {
+    "id": 787,
+    "title": "rte",
+    "key": "metric",
+    "json_key": "field2",
+    "type": null,
+    "style": "default",
+    "aggregation_function": "SUM",
+    "group_by": false,
+    "toggled_key": "column",
+    "toggled_type": "text"
+  },
+  {
+    "id": 785,
+    "title": "fff",
+    "key": "metric",
+    "json_key": "budget",
+    "type": null,
+    "style": "default",
+    "aggregation_function": "SUM",
+    "group_by": false,
+    "toggled_key": "column",
+    "toggled_type": "text"
+  },
+  {
+    "id": 784,
+    "title": "ffffffff",
+    "key": "metric",
+    "json_key": "budget_cash",
+    "type": null,
+    "style": "default",
+    "aggregation_function": "SUM",
+    "group_by": false,
+    "toggled_key": "column",
+    "toggled_type": "text"
+  }
+]
